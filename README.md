@@ -1,5 +1,4 @@
 # Home-Automation-Smart-Fan
-Config files for my GitHub profile.
 In this project, we have come with an idea of Smart Fans. Objective is to use Smart Fans
 without any remote control. To achieve this, we have used gesture recognition. Using the 
 least of resource (i.e., Camera Sensor), we can control the fan. Proposed system enables 
